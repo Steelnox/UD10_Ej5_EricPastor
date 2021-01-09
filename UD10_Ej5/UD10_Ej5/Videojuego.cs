@@ -4,7 +4,7 @@ using System.Text;
 
 namespace UD10_Ej5
 {
-    public class Videojuego
+    public class Videojuego : Entregable
     {
         private string titulo;
         private float horas_est;
@@ -47,6 +47,26 @@ namespace UD10_Ej5
         public override string ToString()
         {
             return titulo.ToString() + ": " + horas_est.ToString() + ": " + genero.ToString() + ": " + compañia.ToString() + ": " + entregado.ToString();
+        }
+        public void Entregar()
+        {
+            entregado = true;
+        }
+
+        public void Devolver()
+        {
+            entregado = false;
+        }
+
+        public void isEntregado()
+        {
+            if (entregado) Console.WriteLine("La serie ha sido entregada");
+            else Console.WriteLine("La serie no ha sido entregada");
+        }
+
+        public int compareTo(Object a)
+        {
+            return ntemporadas.CompareTo(a);
         }
     }
 }
