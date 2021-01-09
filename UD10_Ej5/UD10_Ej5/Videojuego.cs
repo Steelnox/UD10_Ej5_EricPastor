@@ -58,15 +58,14 @@ namespace UD10_Ej5
             entregado = false;
         }
 
-        public void isEntregado()
+        public bool isEntregado()
         {
-            if (entregado) Console.WriteLine("La serie ha sido entregada");
-            else Console.WriteLine("La serie no ha sido entregada");
+            return entregado;
         }
 
         public int compareTo(Object a)
         {
-            return ntemporadas.CompareTo(a);
+            return horas_est.CompareTo(a);
         }
     }
 }

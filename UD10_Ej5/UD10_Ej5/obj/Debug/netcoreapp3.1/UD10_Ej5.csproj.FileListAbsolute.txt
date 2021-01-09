@@ -1,0 +1,13 @@
+D:\Cursillos\Ejercicios\Proyectos\UD10_Ej5\UD10_Ej5\obj\Debug\netcoreapp3.1\UD10_Ej5.csprojAssemblyReference.cache
+D:\Cursillos\Ejercicios\Proyectos\UD10_Ej5\UD10_Ej5\obj\Debug\netcoreapp3.1\UD10_Ej5.AssemblyInfoInputs.cache
+D:\Cursillos\Ejercicios\Proyectos\UD10_Ej5\UD10_Ej5\obj\Debug\netcoreapp3.1\UD10_Ej5.AssemblyInfo.cs
+D:\Cursillos\Ejercicios\Proyectos\UD10_Ej5\UD10_Ej5\obj\Debug\netcoreapp3.1\UD10_Ej5.csproj.CoreCompileInputs.cache
+D:\Cursillos\Ejercicios\Proyectos\UD10_Ej5\UD10_Ej5\bin\Debug\netcoreapp3.1\UD10_Ej5.exe
+D:\Cursillos\Ejercicios\Proyectos\UD10_Ej5\UD10_Ej5\bin\Debug\netcoreapp3.1\UD10_Ej5.deps.json
+D:\Cursillos\Ejercicios\Proyectos\UD10_Ej5\UD10_Ej5\bin\Debug\netcoreapp3.1\UD10_Ej5.runtimeconfig.json
+D:\Cursillos\Ejercicios\Proyectos\UD10_Ej5\UD10_Ej5\bin\Debug\netcoreapp3.1\UD10_Ej5.runtimeconfig.dev.json
+D:\Cursillos\Ejercicios\Proyectos\UD10_Ej5\UD10_Ej5\bin\Debug\netcoreapp3.1\UD10_Ej5.dll
+D:\Cursillos\Ejercicios\Proyectos\UD10_Ej5\UD10_Ej5\bin\Debug\netcoreapp3.1\UD10_Ej5.pdb
+D:\Cursillos\Ejercicios\Proyectos\UD10_Ej5\UD10_Ej5\obj\Debug\netcoreapp3.1\UD10_Ej5.dll
+D:\Cursillos\Ejercicios\Proyectos\UD10_Ej5\UD10_Ej5\obj\Debug\netcoreapp3.1\UD10_Ej5.pdb
+D:\Cursillos\Ejercicios\Proyectos\UD10_Ej5\UD10_Ej5\obj\Debug\netcoreapp3.1\UD10_Ej5.genruntimeconfig.cache

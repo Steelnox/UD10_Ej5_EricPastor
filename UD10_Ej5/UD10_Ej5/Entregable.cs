@@ -8,7 +8,7 @@ namespace UD10_Ej5
     {
         void Entregar();
         void Devolver();
-        void isEntregado();
+        bool isEntregado();
         int compareTo(Object a);
     }
 }
